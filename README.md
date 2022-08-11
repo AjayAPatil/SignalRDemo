@@ -4,7 +4,7 @@ This is simple SignalR application to understand basic working of SignalR
 ### Setup
 1. [Visual Studio](https://visualstudio.microsoft.com/) with [.NET Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) framework
 2. [VS Code](https://code.visualstudio.com/download)
-3. [Angular](https://angular.io/guide/setup-local)
+3. [Angular](https://angular.io/guide/setup-local) version 14
 
 ### Download or clone repository
 ```
